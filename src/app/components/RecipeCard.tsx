@@ -49,15 +49,6 @@ export default function RecipeCard({ recipe, withSteps }: RecipeCardProps) {
 
   return (
     <div className="flex flex-col gap-3 bg-black/10 p-3 rounded-2xl shadow-inner shadow-black/30">
-      <Link
-        href={`/recipes/${recipe.id}`}
-        className="self-start bg-[var(--accent-dark)] rounded-full
-          shadow-[inset_0_-2px_4px_rgba(0,0,0,0.3),0_2px_4px_rgba(255,255,255,0.05)]
-          hover:shadow-inner hover:shadow-black/30 hover:bg-[var(--accent-dark)]/50
-          transition-all duration-200 px-4 py-2"
-      >
-        View Full Recipe →
-      </Link>
       <div className="text-xl font-semibold">{recipe.title}</div>
       <div>{recipe.description}</div>
       <div className="border-b border-[var(--accent-light)]"></div>
