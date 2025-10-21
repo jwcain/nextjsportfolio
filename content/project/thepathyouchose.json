@@ -1,0 +1,23 @@
+{
+  "order": 2,
+  "title": "The Path You Chose",
+  "description": "The Path you Chose is a Non-Euclidean 2D Line drawing game. Non-Euclidean, in this sense, means that many of the rooms and spaces do not connect in ways that you expect. I worked primarily on the rendering code, more specifically Game Manager, Rendering Handler, and Rendering Tile, but as the team leader I assisted development with most code throughout the project.",
+  "links": [
+    {
+      "url": "https://github.com/HuskyGameDev/2019s-team4",
+      "name": "GitHub",
+      "icon": ""
+    },
+    {
+      "url": "https://jwcain.github.io/noneuclid/",
+      "name": "Demo Level",
+      "icon": ""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=u43h-v9xnv4",
+      "name": "Teaser Trailer",
+      "icon": ""
+    }
+  ],
+  "tags": ["Unity", "C#", "Steam VR"]
+}

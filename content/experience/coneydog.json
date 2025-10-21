@@ -1,0 +1,13 @@
+{
+  "order": 1,
+  "title": "Unity Developer",
+  "employer": "Coney Dog Games",
+  "location": "Remote",
+  "description": "Summer internship developing an arcade-style game for the Nintendo Switch, focusing on gameplay mechanics, AI, and player interactions.",
+  "date": "May 2018 - August 2018",
+  "details": [
+    "Designed project plans and sprint schedules, translating design requirements into technical tasks and managing development timelines with weekly designer collaboration.",
+    "Implemented all core systems including gameplay, AI, physics, and UI from initial design to working prototype.",
+    "Hosted public playtesting sessions and integrated player feedback into design changes and development timelines."
+  ]
+}

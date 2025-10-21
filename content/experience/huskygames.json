@@ -1,0 +1,14 @@
+{
+  "order": 2,
+  "title": "VP of Operations",
+  "employer": "Husky Game Development",
+  "location": "Houghton, MI",
+  "description": "Served as Vice President of Operations for a college game development enterprise.",
+  "date": "September 2016 - May 2019",
+  "details": [
+    "Taught C#, Unity, and development processes to 70+ student developers in general assembly meetings.",
+    "Rewrote organizational charter and handled IGDA membership prep to connect with the professional community.",
+    "Expanded project timelines from 1-2 semesters to multi-year cycles to support more complex projects.",
+    "Represented the organization at Game Developers Conference,  building industry connections for students."
+  ]
+}

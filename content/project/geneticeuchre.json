@@ -1,0 +1,18 @@
+{
+  "order": 5,
+  "title": "Genetic Euchre",
+  "description": "Traditional card game Euchre with genetic AI trained opponents. I utilized a pre-existing point-based strategy for euchre, but trained for different point spreads. I was able to train a strategy that defeated the original 56% of the time.",
+  "links": [
+    {
+      "url": "https://jwcain.github.io/Euchre_Play/",
+      "name": "Play Now",
+      "icon": ""
+    },
+    {
+      "url": "https://github.com/jwcain/Genetic_Euchre",
+      "name": "GitHub",
+      "icon": ""
+    }
+  ],
+  "tags": ["Unity", "C#"]
+}

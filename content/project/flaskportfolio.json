@@ -1,0 +1,13 @@
+{
+  "order": 3,
+  "title": "Flask Portfolio Website",
+  "description": "Web portfolio using the Python library Flask for backend and Jinja2 for web-page rendering. Supports live editing of content via Admin page.",
+  "links": [
+    {
+      "url": "https://github.com/jwcain/FlaskPortfolio",
+      "name": "GitHub",
+      "icon": ""
+    }
+  ],
+  "tags": ["Python", "Flask", "Jinja2"]
+}

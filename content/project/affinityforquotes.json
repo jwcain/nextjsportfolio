@@ -1,0 +1,13 @@
+{
+  "order": 0,
+  "title": "AffinityForQuotes",
+  "description": "A Discord bot that generates fake quotes based on user's messages. Trains a markov chain off of recent chat history.",
+  "links": [
+    {
+      "url": "https://github.com/jwcain/AffinityForQuotes",
+      "name": "GitHub",
+      "icon": ""
+    }
+  ],
+  "tags": ["Python", "Discord API"]
+}

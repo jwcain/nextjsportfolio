@@ -1,0 +1,58 @@
+{
+  "order": 0,
+  "id": "cheesecake-base",
+  "title": "Cheesecake Base",
+  "description": "This is the recipe I use as the base for all my cheesecakes! It can take about half a cup of liquid flavoring ingredients, such as peanut butter, jams, or candy.",
+  "steps": [
+    {
+      "description": "Prepare Preheat oven to 350°F. Prepare spring form pan with grease and parchment paper if desired. All dairy should been softened, either by leaving on the counter for 1-2 hours of following per-ingredient warming instructions.",
+      "ingredient": []
+    },
+    {
+      "description": "Crush graham cracker if needed. Melt butter in large bowl. Add sugar and crushed graham cracker. Mix to form 'wet sand' like consistency.",
+      "ingredient": [
+        {
+          "name": "Graham Cracker Crumbs, finely crushed",
+          "amountOptions": ["250 g"]
+        },
+        { "name": "Unsalted Butter, melted", "amountOptions": ["7 TBS"] },
+        { "name": "White Sugar", "amountOptions": ["70 g"] }
+      ]
+    },
+    {
+      "description": "Press crust flat into pan and bake for 10 minutes.",
+      "ingredient": []
+    },
+    {
+      "description": "Combine sour cream, vanilla, salt, 1 TBS Heavy Cream, and additional flavors into a bowl and stir. Set aside",
+      "ingredient": [
+        { "name": "Sour Cream", "amountOptions": ["150 g"] },
+        { "name": "Heavy Cream", "amountOptions": ["1 TBS"] },
+        { "name": "Vanilla extract", "amountOptions": ["2 tsp"] },
+        { "name": "Salt", "amountOptions": ["1/4 tsp"] }
+      ]
+    },
+    {
+      "description": "Beat eggs and heavy cream in a bowl until well mixed. Set aside.",
+      "ingredient": [
+        { "name": "Eggs", "amountOptions": ["4 Large"] },
+        { "name": "Heavy Cream", "amountOptions": ["1 TBS"] }
+      ]
+    },
+    {
+      "description": "Cream sugar and cream cheese in stand mixer until smooth. Add egg mixture slowly, ~1/4th at a time. Alternate with 1/4th flavoring mixture, scraping down sides with rubber spatula between additions.",
+      "ingredient": [
+        { "name": "Cream Cheese", "amountOptions": ["910 g", "32 oz"] },
+        { "name": "Sugar", "amountOptions": ["200 g"] }
+      ]
+    },
+    {
+      "description": "Bake 75 minutes in a water bath. Wrap pan as needed. When time is up, let cheesecake sit in oven for 30 minutes.",
+      "ingredient": []
+    },
+    {
+      "description": "Carefully run knife around cheesecake to free cake from the sides of the pan. Let refrigerate in pan for 4 hours, preferably over night.",
+      "ingredient": []
+    }
+  ]
+}
