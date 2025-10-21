@@ -1,0 +1,13 @@
+{
+  "order": 4,
+  "title": "Astrocide",
+  "description": "Astrocide is a 2D side-view arcade shooter focused on bringing a retro-classic feel to the Nintendo Switch. This was part of the summer internship with Coney Dog Games.",
+  "links": [
+    {
+      "url": "https://github.com/jwcain/Astrocide_CodeSamples",
+      "name": "GitHub",
+      "icon": ""
+    }
+  ],
+  "tags": ["Unity", "C#"]
+}

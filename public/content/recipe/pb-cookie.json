@@ -1,0 +1,66 @@
+{
+  "order": 1,
+  "id": "pb-cookie",
+  "title": "PB Chocolate Chunk Cookies",
+  "description": "PB cookies with chocolate chunks and flaky salt. My favorite dessert that I make too often. These cookies carry a nice peanut butter flavor without overwhelming the chocolate and have a nice, salty kick.",
+  "steps": [
+    {
+      "description": "Prepare Preheat oven to 350°F. Prepare two cookie sheets with parchment paper. Spray down with non-stick spray and set aside.",
+      "ingredient": []
+    },
+    {
+      "description": "In a large enough bowl to hold the full recipe, whisk dry ingredients together. Then, add peanut butter to dry ingredients. Name brand is preferred as they typically have more emulsifiers that help in the baking process, natural peanut butters will be me oily. Using a clean hand, crumble/press the dry mixture and peanut butter together until you get a loose dough-like mixture similar in texture to wet sand. Set aside to rest.",
+      "ingredient": [
+        { "name": "Flour", "amountOptions": ["1 + 1/2 Cup"] },
+        { "name": "Salt", "amountOptions": ["1/2 TSP"] },
+        { "name": "Baking Soda", "amountOptions": ["1 TSP"] },
+        { "name": "Peanut Butter", "amountOptions": ["1 Cup"] }
+      ]
+    },
+    {
+      "description": "In a medium heat-proof (or microwave-safe) bowl, add 1 stick of butter. Either using a double boiler or a microwave, soften the butter until just melted. Be careful to not overcook. Add in white sugar, brown sugar, and maple syrup. Whisk until creamed (the color of the mixture should lighten slightly).",
+      "ingredient": [
+        { "name": "Unsalted Butter", "amountOptions": ["1 Stick"] },
+        { "name": "White Sugar", "amountOptions": ["3/4 Cup"] },
+        { "name": "Brown Sugar", "amountOptions": ["1/4 Cup"] },
+        { "name": "Pure Maple Syrup", "amountOptions": ["2 TBSP"] }
+      ]
+    },
+    {
+      "description": "In the butter-sugar mixture, crack egg, add egg yolk, and add vanilla. Whisk until egg is fully incorporated, but do not over whisk as it will add air to the mixture which can change the texture of the final result.",
+      "ingredient": [
+        { "name": "Eggs", "amountOptions": ["2 Large"] },
+        { "name": "Vanilla", "amountOptions": ["1 TBSP"] }
+      ]
+    },
+    {
+      "description": "In the bowl containing the PB/flour mixture, create a well in the center of the dough and add the sugar-butter-egg mixture. Stir until combined. (Dough is very stiff)",
+      "ingredient": []
+    },
+    {
+      "description": "Roughly chop the bar of chocolate on a cutting board until you get loose, chip-sized pieces. The less consistent you are the better, as varying the size of the chocolate chunks helps improve the texture of the final cookie. Once chopped, use a rubber spatula to fold in the chocolate into the dough until roughly distributed.",
+      "ingredient": [
+        {
+          "name": "Bittersweet Chocolate ~70% Cacao",
+          "amountOptions": ["1 bar", "3.5 oz"]
+        }
+      ]
+    },
+    {
+      "description": " Take the 1/2 cup sugar set aside for finishing and spread it out on a plate. Using an ice cream scoop (or a kitchen spoon), scoop dough into roughly 16 equal cookies one at a time. For each scoop, use the scoop and one hand to form the dough into a ball. Roll the ball in sugar until covered. Place on a baking sheet (each sheet will have 8 cookies in 2x4 arrangement).",
+      "ingredient": [{ "name": "White Sugar", "amountOptions": ["1/2 Cup"] }]
+    },
+    {
+      "description": "Using the tines of a fork, press the cookies down until they are roughly half an inch tall. PB cookies tend to not spread out as much in baking, so they need help this way to cook evenly. This will also give the cookies the distinctive 'peanut butter cookie' pattern. Sprinkle the top of each cookie with a pinch or two of large, flaky sea salt.",
+      "ingredient": []
+    },
+    {
+      "description": "Place the baking sheets on two different oven racks. Bake for 6 minutes, then swap the baking sheets and rotate each of them (this helps produce a more even bake). Bake for another 6 minutes (for a total of 12).",
+      "ingredient": []
+    },
+    {
+      "description": "Remove the baking sheets from the oven. Let the cookies rest on the baking sheets for 5 minutes then transfer to cooling racks and let cool completely.",
+      "ingredient": []
+    }
+  ]
+}

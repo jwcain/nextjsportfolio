@@ -1,0 +1,18 @@
+{
+  "order": 1,
+  "title": "Agent 967: A VR Evidence Disposal Game",
+  "description": "Your duty is to ensure the proper filing, organizing, and destruction of all evidence that the field Agents create during their job. It is often not as easy as you would like, Management seems to change their requirements daily and Agents often don’t think about what they classify as evidence.",
+  "links": [
+    {
+      "url": "https://github.com/jwcain/Agent967_Project",
+      "name": "GitHub",
+      "icon": ""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=k6NbXZxOXsc",
+      "name": "VR Playtest Footage",
+      "icon": ""
+    }
+  ],
+  "tags": ["Unity", "C#", "Steam VR"]
+}
