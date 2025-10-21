@@ -8,7 +8,7 @@ type Props = {
   params: Promise<{ id: string }>;
 };
 
-// Add this function to pre-generate all recipe pages
+// function pre-generates all recipe pages
 export async function generateStaticParams() {
   const recipesDir = path.join(process.cwd(), "public/content/recipe");
 
