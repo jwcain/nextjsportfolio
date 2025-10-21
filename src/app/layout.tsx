@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Navbar from "@/app/components/Navbar";
 import ScrollToTopButton from "@/app/components/ScrollToTopButton";
 import Header from "@/app/components/Header";
 

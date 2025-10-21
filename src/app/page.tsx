@@ -1,12 +1,8 @@
 // app/page.tsx
-import Link from "next/link";
-import styles from "./page.module.css";
 import fs from "fs";
 import path from "path";
 import ExperienceCard from "@/app/components/ExperienceCard";
 import { Experience } from "./Types";
-import CopyButton from "./components/CopyButton";
-import SkeletonCard from "./components/SkeletonCard";
 
 export default function Home() {
   const dir = path.join(process.cwd(), "public/content/experience");
