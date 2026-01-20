@@ -8,7 +8,7 @@
   "details": [
     "Delivered sprint commitments ahead of schedule, using extra time to identify and propose architectural improvements that became key project initiatives.",
     "Migrated legacy software to MVC architecture, making the codebase modular enough to sell across multiple government contracts worth $5M+.",
-    "Reduced content generation time from 30 days to 3 days using C# reflection, attributes, and lambda expressions.",
+    "Reduced content generation time from 30 days to 5 days using C# reflection, attributes, and lambda expressions.",
     "Built a custom physics API that cut the codebase by 30% and made unit testing possible.",
     "Mentored developers as the team grew from 2 to 10+ people, teaching architecture patterns and coding standards.",
     "Built a dynamic UI system to support desktop deployment, replacing hardcoded mobile-only interfaces with a flexible system that enabled features like UI skinning and rapid prototyping.",
